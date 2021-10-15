@@ -1,0 +1,16 @@
+C:\Users\gsida\Desktop\Repo\FactoryDesignExercise\bin\Debug\net5.0\FactoryDesignExercise.exe
+C:\Users\gsida\Desktop\Repo\FactoryDesignExercise\bin\Debug\net5.0\FactoryDesignExercise.deps.json
+C:\Users\gsida\Desktop\Repo\FactoryDesignExercise\bin\Debug\net5.0\FactoryDesignExercise.runtimeconfig.json
+C:\Users\gsida\Desktop\Repo\FactoryDesignExercise\bin\Debug\net5.0\FactoryDesignExercise.runtimeconfig.dev.json
+C:\Users\gsida\Desktop\Repo\FactoryDesignExercise\bin\Debug\net5.0\FactoryDesignExercise.dll
+C:\Users\gsida\Desktop\Repo\FactoryDesignExercise\bin\Debug\net5.0\ref\FactoryDesignExercise.dll
+C:\Users\gsida\Desktop\Repo\FactoryDesignExercise\bin\Debug\net5.0\FactoryDesignExercise.pdb
+C:\Users\gsida\Desktop\Repo\FactoryDesignExercise\obj\Debug\net5.0\FactoryDesignExercise.csproj.AssemblyReference.cache
+C:\Users\gsida\Desktop\Repo\FactoryDesignExercise\obj\Debug\net5.0\FactoryDesignExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gsida\Desktop\Repo\FactoryDesignExercise\obj\Debug\net5.0\FactoryDesignExercise.AssemblyInfoInputs.cache
+C:\Users\gsida\Desktop\Repo\FactoryDesignExercise\obj\Debug\net5.0\FactoryDesignExercise.AssemblyInfo.cs
+C:\Users\gsida\Desktop\Repo\FactoryDesignExercise\obj\Debug\net5.0\FactoryDesignExercise.csproj.CoreCompileInputs.cache
+C:\Users\gsida\Desktop\Repo\FactoryDesignExercise\obj\Debug\net5.0\FactoryDesignExercise.dll
+C:\Users\gsida\Desktop\Repo\FactoryDesignExercise\obj\Debug\net5.0\ref\FactoryDesignExercise.dll
+C:\Users\gsida\Desktop\Repo\FactoryDesignExercise\obj\Debug\net5.0\FactoryDesignExercise.pdb
+C:\Users\gsida\Desktop\Repo\FactoryDesignExercise\obj\Debug\net5.0\FactoryDesignExercise.genruntimeconfig.cache
